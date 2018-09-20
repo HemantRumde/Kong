@@ -38,3 +38,6 @@ docker run -d --name kong \
     -p 8444:8444 \
     kong:latest
 ```
+# Kong in AWS 
+AWS Marketplace AMI image is available. This image uses extra-large server ( free-tier may not be available ). We can use this to explore Kong Gateway in EC2 instance.
+
